@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sistema de Loja Online</title>
+    <title>Lambda Camp</title>
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://bootswatch.com/5/flatly/bootstrap.css"> -->
     @vite('resources/css/app.css')
