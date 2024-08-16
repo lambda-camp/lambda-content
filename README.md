@@ -46,6 +46,7 @@ The class diagram represents the main purposes of UML through its classes, attri
 > **Note:** A user may not necessarily need to contribute; they can be simply a student or a contributor seeking to use the system for self-hosting. To make a contribution, one must provide a title, description, and other attributes while associating the content with a relevant tech area.
 
 ![Class Diagram](https://github.com/user-attachments/assets/b20dc976-4da5-453b-9058-61d8157f8541)
+
 *Source: Authors, 2024.*
 
 ### General Use Case Diagram
@@ -54,6 +55,7 @@ The use case diagram presents the structure and functionality of the system thro
 > **Note:** The user actor must create an account and can only perform other operations after authenticating in the system, as shown in the relationship of requirements. Operations include CRUD (Create, Read, Update, Delete) actions for managing content.
 
 ![Use Case Diagram](https://github.com/user-attachments/assets/1d214c4c-8e46-4aa2-b751-402e531cfb63)
+
 *Source: Authors, 2024.*
 
 ## Methodology
